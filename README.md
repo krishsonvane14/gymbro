@@ -1,9 +1,3 @@
-# React + Vite
+# GYMBRO
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# gymbro
+GymBro is a personal project designed to enhance fitness tracking by generating personalized workout plans based on user preferences. Built with React and styled using Tailwind CSS, this responsive website leverages JavaScript for dynamic interactions. GymBro offers a sleek, intuitive interface that helps users create and follow tailored workout routines, making it easier to stay motivated and achieve their fitness goals.
